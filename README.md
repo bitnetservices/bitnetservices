@@ -9,6 +9,7 @@ Some key projects developed -
 * API development for CyberConIQ 
 * Microsoft Dynamics Nav 2016
 * Various Solution Architect roles
+* Predict BustABit
 
 Profile:
 Skill set:
@@ -66,13 +67,14 @@ APIs
 * RESTful APIs
 
 ### Testimonials:
-> "He is expert in python, spark and big data analysis." - Fatamatuz Z., Canada
-> "Really enjoyed working with Jag on this projects. He was brilliant and stuck through all the steps needed to get the work done! Will be working with him again asap. I highly recommend him!" - Nathaniel M., United States
-> "Jagdish did excellent work! His knowledge of programming and software technologies was outstanding!
-I will hire again!
-
-His customer service was also excellent! I am a very happy customer!" - Christopher M., Australia
-> "Outstanding work. Picked up my project just and just finished off the bits that I needed to be able to get this working nicely." - Andy B., Australia
+> "He is expert in python, spark and big data analysis."
+Fatamatuz Z., Canada
+> "Really enjoyed working with Jag on this projects. He was brilliant and stuck through all the steps needed to get the work done! Will be working with him again asap. I highly recommend him!"
+Nathaniel M., United States
+> "Jagdish did excellent work! His knowledge of programming and software technologies was outstanding! I will hire again! His customer service was also excellent! I am a very happy customer!" 
+Christopher M., Australia
+> "Outstanding work. Picked up my project just and just finished off the bits that I needed to be able to get this working nicely." 
+Andy B., Australia
 
 
 
