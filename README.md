@@ -75,7 +75,7 @@ Fatamatuz Z., Canada
 
 Nathaniel M., United States
 
-> "Jagdish did excellent work! His knowledge of programming and software technologies was outstanding! I will hire again! His customer service was also excellent! I am a very happy customer!" 
+> "Jag did excellent work! His knowledge of programming and software technologies was outstanding! I will hire again! His customer service was also excellent! I am a very happy customer!" 
 
 Christopher M., Australia
 
