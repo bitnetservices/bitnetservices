@@ -36,6 +36,11 @@ Virtual Engineering Lead
 - Responsible to create roadmaps,
 - Strong Stakeholder experience
 
+Microsoft .Net Standard/Framework/Core:
+================
+Worked as full stack developer right from .Net 1.1 till latest version. Worked as in full scope of Architect, technical lead, engineer.  
+
+
 Data Management:
 ================
 Passionate with strong ability to own and manage changes of application and data models. Designed data models, solution and data & security architecture documentation for complex systems.
